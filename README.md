@@ -24,7 +24,7 @@ This app that uses a public API and show random quotes from the popular Breaking
 1. Clone the repository:
 
   ```bash
-  git clone https://github.com/godfrey-bn/Breaking-bad-quote.git
+  git clone https://github.com/godfrey-bn/breaking-bad.git
   ```
 
 2. install Dependensies
