@@ -3,7 +3,8 @@
 This is an app for Breaking Bad series quote
 
 ## Preview
-![Breaking bad app](https://github.com/godfrey-bn/Breaking-bad-quote/assets/123532318/460433ee-083b-4bee-a9a6-774dda209773)
+![bad](https://github.com/user-attachments/assets/421a842a-a51f-4260-b385-43baca77fc5d)
+
 
 
 ## Overview
